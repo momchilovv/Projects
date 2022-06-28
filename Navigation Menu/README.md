@@ -1,5 +1,5 @@
 # Information
-</br>
+
 <li> The notification logic is not implemented!</br>
 &nbsp;&nbsp;&nbsp;&nbsp;
      Currently, the number can be changed manually from the 'data-count' attribute in index.html.</br>
