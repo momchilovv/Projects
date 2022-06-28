@@ -11,4 +11,4 @@
 <li>The font I used is 'Poppins' and can be copied from <a href="https://fonts.google.com/specimen/Poppins">here</a>.</li>
 
 # Demo
-<img src="https://github.com/momchilovv/Projects/blob/main/Custom%20Navigation%20Bar/Demo_NavBar.gif" width="450" height="350"/>
+<img src="https://github.com/momchilovv/Projects/blob/main/Navigation%20Menu/Demo_NavBar.gif" width="450" height="350"/>
