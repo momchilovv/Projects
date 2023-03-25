@@ -78,7 +78,7 @@ and additional information from the table below.
 <td style="text-align: center;">✔</td>
 <td style="text-align: center;" aria-label="No value"></td>
 </tr>
-<tr>
+<tr> 
 <td style="text-align: left;">Assamese</td>
 <td style="text-align: center;"><code>as</code></td>
 <td style="text-align: center;">✔</td>
