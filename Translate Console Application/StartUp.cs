@@ -4,7 +4,7 @@ using System.Text.Json;
 class Program
 {
     // You can get your free API key from https://portal.azure.com/.
-    private static readonly string key = "d5cf7de93fc14d7ebe11821cc3878de6";
+    private static readonly string key = "your_API_key";
     private static readonly string endpoint = "https://api.cognitive.microsofttranslator.com";
 
     private static readonly string location = "westeurope";
